@@ -2,25 +2,52 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. student, School of School of Mechanical Science & Engineering, HUST
 
 profile:
   align: right
-  image: ./assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: False  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: False  # includes social icons at the bottom of the page
+Honors and Awards: True
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+- I am currently a Third-year Ph.D. student at School of [Mechanical Science & Engineering](http://mse.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China. 
+- Before that, I received the Bachelor of Vehicle Engineering at the College of Mechanical and Electrical Engineering  (CMEE) , [Central South University](https://www.csu.edu.cn/), Changsha, China.
+- My research interests include intelligent manufacturing, deep learning  and computer vision.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+
+## Education
+
+- <span style="background-color: #0d47a1; color: white; padding: 1px;"><b><b>Sept. 2021 — Now.</b></b></span> Ph.D. student in Mechanical Engineering, *[Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China.* 
+- <span style="background-color: #0d47a1; color: white; padding: 1px;"><b><b>Sept. 2017 — June. 2021</b></b></span> B.sc. in Vehicle Engineering, *[Central South University](https://www.csu.edu.cn/), Changsha, China.*
+
+
+
+## Honors and Awards
+
+<span style="background-color: #0d47a1; color: white; padding: 1px;"><b><b>BACHELOR</b></b></span>
+
+- Formula Student Electric China (FSEC), **First Prize**, 2020
+- MCM/ICM, **Honor Winner**, 2020
+
+- National Scholarship (**top 1%**), Ministry of Education of China, 2020
+- Excellent Student Award (every year), of Central South University, 2018, 2019, 2020
+- First-class Scholarship of Central South University (**top 3%**), 2019, 2020
+- Second-class Scholarship of Central South University (**top 5%**), 2018
+- Outstanding Graduate of Hunan Province, 2021
+- Highpower International Scholarship, 2018
+- Shindy Technology Scholarship, 2019
+
+<span style="background-color: #0d47a1; color: white; padding: 1px;"><b><b>DOCTOR</b></b></span>
+
+- First-class Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2021, 2022, 2023
